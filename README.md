@@ -5,3 +5,5 @@ In Sender1_vertex.m file contains the vertices corresponding to the first sender
 In Sender2_vertex.m file contains the vertices corresponding to the first sender S_2 
 
 In Receiver_vertex.m file contains all possible deterministic vertices corresponds to Receiver R
+
+In seesaw.m file constains the script of semidefinite programming(SDP) code to the quantum lower bound.
